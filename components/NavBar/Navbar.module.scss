@@ -1,0 +1,15 @@
+
+
+.nav-container{
+    margin-bottom: 40px;
+    a{
+        color: #00879c;
+        margin-right: 10px;
+        &.active{
+            color: black;
+        }
+        &:hover{
+            color: #004d59;
+        }
+    }
+}
